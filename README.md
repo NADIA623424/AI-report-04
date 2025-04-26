@@ -42,6 +42,8 @@ Step-11:End
 
 output
 ![image alt]{https://github.com/NADIA623424/AI-report-04/blob/52a035324ad05c784853631c85afa4bcd38406fd/Screenshot%202025-04-26%20211724.png}
+!{image alt}{
+
 disscussion
  In this lab, we successfully implemented a modified K-Means clustering algorithm using Manhattan distance instead of the traditional Euclidean distance. By generating random data points and initial cluster centers, we simulated a real-world clustering scenario where data points are grouped based on proximity.100 random points and 10 initial centers were generated and clustered based on proximity.Cluster centers were updated until no changes occurred, ensuring convergence.A 2D matrix visualization was created using print(), showing points and centers clearly.The results confirmed that the algorithm grouped points efficiently based on the Manhattan distance.
  conclusion
